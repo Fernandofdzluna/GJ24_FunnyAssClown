@@ -1,2 +1,2 @@
-*.html linguist-detectable=false
-*.ShaderLab linguist-detectable=false
+**/shaders/* linguist-vendored=true
+*/cginc/* linguist-vendored=true
